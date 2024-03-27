@@ -1,0 +1,27 @@
+.container {
+  height: 100vh;
+  max-width: 600px;
+  background: transparent;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.container * {
+  background: transparent;
+}
+
+.container img {
+  max-width: 600px;
+  max-height: 600px;
+  width: 100%;
+  margin-top: 3rem;
+  border-radius: 20px;
+  box-shadow: 1px 1px 3px 3px white;
+}
+
+.container h2 {
+  margin-top: 10px;
+  text-align: start;
+  color: rgb(248, 241, 241);
+}
